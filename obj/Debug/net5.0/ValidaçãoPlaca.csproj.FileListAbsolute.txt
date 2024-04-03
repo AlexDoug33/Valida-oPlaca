@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.AssemblyInfo.cs
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ValidaçãoPlaca.exe
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ValidaçãoPlaca.deps.json
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ValidaçãoPlaca.runtimeconfig.json
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ValidaçãoPlaca.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ValidaçãoPlaca.dll
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ref\ValidaçãoPlaca.dll
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\bin\Debug\net5.0\ValidaçãoPlaca.pdb
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.dll
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ref\ValidaçãoPlaca.dll
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.pdb
+C:\Users\Alex\Desktop\DevTeste\ValidaçãoPlaca\obj\Debug\net5.0\ValidaçãoPlaca.genruntimeconfig.cache

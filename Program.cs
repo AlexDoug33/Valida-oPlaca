@@ -28,7 +28,7 @@ namespace ValidaçãoPlaca
             }
             else
             {
-                Console.WriteLine("Placa inválida!");
+                Console.WriteLine("Placa  não inválida!");
             }
         }
     }

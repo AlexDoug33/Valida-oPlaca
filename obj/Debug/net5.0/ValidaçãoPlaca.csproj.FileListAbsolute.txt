@@ -26,7 +26,7 @@ C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ValidaçãoPla
 C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ValidaçãoPlaca.AssemblyInfo.cs
 C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ValidaçãoPlaca.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ValidaçãoPlaca.dll
-C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\refint\ValidaçãoPlaca.dll
 C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ValidaçãoPlaca.pdb
 C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ValidaçãoPlaca.genruntimeconfig.cache
 C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\obj\Debug\net5.0\ref\ValidaçãoPlaca.dll
+C:\Users\Alex\Desktop\Valida Placa\Valida-oPlaca\bin\Debug\net5.0\ref\ValidaçãoPlaca.dll
